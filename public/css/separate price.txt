@@ -1,0 +1,95 @@
+<section class="visual-container">
+		<div class="visual-area">
+			<div class="container">
+				<h2>People Are Talking About Fork</h2>
+				<ul class="testimonials">
+					<li>
+						<div class="img-holder"><a href="#"><img src="images/logo-smashing.png" height="43" width="165" alt="smashing magazine"></a></div>
+						<p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
+					</li>
+					<li>
+						<div class="img-holder"><a href="#"><img src="images/logo-codrops.png" height="50" width="148" alt="codrops"></a></div>
+						<p><em>Donec euismod dolor ut ultricies consequat. Vivamus urna ipsum, rhoncus molestie neque ac, mollis eleifend nibh.</em></p>
+					</li>
+					<li>
+						<div class="img-holder"><a href="#"><img src="images/logo-w.png" height="64" width="64" alt="w"></a></div>
+						<p><em>In efficitur in velit et tempus. Duis nec odio dapibus, suscipit erat fringilla, imperdiet nibh. Morbi tempus auctor felis ac vehicula. </em></p>
+					</li>
+					<li>
+						<div class="img-holder"><a href="#"><img src="images/logo-pixel.png" height="24" width="225" alt="Pixel Buddha"></a></div>
+						<p><em>Sed vestibulum scelerisque urna, eu finibus leo facilisis sit amet. Proin id dignissim magna. Sed varius urna et pulvinar venenatis. </em></p>
+					</li>
+					<li>
+						<div class="img-holder"><a href=""><img src="images/logo-cb.png" height="34" width="166" alt="creative bloq"></a></div>
+						<p><em>Praesent ut eros tristique, malesuada lectus vel, lobortis massa. Nulla faucibus lorem id arcu consequat faucibus. </em></p>
+					</li>
+					<li>
+						<div class="img-holder"><a href="#"><img src="images/logo-tnw.png" height="34" width="108" alt="tnw"></a></div>
+						<p><em>Fusce pharetra erat id odio blandit, nec pharetra eros venenatis. Pellentesque porttitor cursus massa et vestibulum.</em></p>
+					</li>
+				</ul>
+			</div>
+			<img src="images/img-decor-02.jpg" height="764" width="1380" alt="" class="bg-stretch">
+		</div>
+		<div class="visual-area">
+			<div class="container">
+				<h2>Fork Subscription Pricing</h2>
+				<div class="pricing-tables">
+					<div class="plan">
+		                <div class="head">
+		                    <h3>Students</h3>
+		                </div>
+		                <div class="price">
+		                    <span class="price-main"><span class="symbol">$</span>8</span>
+		                    <span class="price-additional">per month</span>
+		                </div>
+		                <ul class="item-list">
+		                    <li>Personal License</li>
+		                </ul>
+		                <button type="button" class="btn btn-default rounded">purchase</button>
+		            </div>
+		            <div class="plan">
+		                <div class="head">
+		                    <h3>professional</h3> </div>
+		                <div class="price">
+		                    <span class="price-main"><span class="symbol">$</span>19</span>
+		                    <span class="price-additional">per month</span>
+		                </div>
+		                    <ul class="item-list">
+		                       <li>Professional License</li>
+		                       <li>Email Support</li>
+		                    </ul>
+		                <button type="button" class="btn btn-default rounded">purchase</button>
+		            </div>
+		            <div class="plan recommended">
+		                <div class="head">
+		                    <h3>agency</h3> </div>
+		                <div class="price">
+		                    <span class="price-main"><span class="symbol">$</span>49</span>
+		                    <span class="price-additional">per month</span>
+		                </div>
+		                    <ul class="item-list">
+		                        <li>1-12 Team Members</li>
+		                        <li>Phone Support</li>
+		                    </ul>
+		                <button type="button" class="btn btn-default rounded">purchase</button>
+		            </div>
+		            <div class="plan">
+		                <div class="head">
+		                    <h3>enterprise</h3> </div>
+		                <div class="price">
+		                    <span class="price-main"><span class="symbol">$</span>79</span>
+		                    <span class="price-additional">per month</span>
+		                </div>
+		                <ul class="item-list">
+		                    <li>Unlimited Team Members</li>
+		                    <li>24/ 7 Phone Support</li>
+		                </ul>
+		                <button type="button" class="btn btn-default rounded">purchase</button>
+		            </div>
+				</div>
+				<p class="silent">Duis lobortis arcu sed arcu tincidunt feugiat. Nulla nisi mauris, facilisis vitae aliquet id, imperdiet quis nibh. Donec eget elit eu libero tincidunt consequat nec elementum orci. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+			</div>
+			<img src="images/img-decor-03.jpg" height="1175" width="1380" alt="" class="bg-stretch">
+		</div>
+	</section>
